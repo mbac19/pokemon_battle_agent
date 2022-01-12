@@ -4,4 +4,6 @@ services:
   showdown_web:
     build:
       context: .
-      dockerfile: pokemon_showdown.Dockerfile
+      dockerfile: dockerfiles/pokemon_showdown.Dockerfile
+    expose:
+      - 8000
