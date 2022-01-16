@@ -1,0 +1,32 @@
+{
+  "name": "@levr/pba-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rimraf node_modules dist",
+    "debug": "ts-node src/index.ts",
+    "start": "node dist/index.js"
+  },
+  "author": "Brendan McNamara",
+  "license": "ISC",
+  "dependencies": {
+    "@types/body-parser": "1.19.2",
+    "@types/express": "^4.17.13",
+    "@types/morgan": "1.9.3",
+    "aws-sdk": "2.1003.0",
+    "body-parser": "1.19.0",
+    "env-var": "7.1.1",
+    "express": "^4.17.1",
+    "inversify": "6.0.1",
+    "morgan": "1.10.0",
+    "reflect-metadata": "0.1.13",
+    "typeorm": "0.2.41",
+    "uuid": "8.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.7.1",
+    "ts-node": "^10.2.1"
+  }
+}

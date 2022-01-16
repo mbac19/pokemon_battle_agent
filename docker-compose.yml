@@ -1,9 +1,17 @@
 version: "3.9"
 
 services:
+  battle_simulator:
+    build:
+      context: .
+      dockerfile: dockerfiles/battle_simulator.Dockerfile
+    expose:
+      - ${BATTLE_SIMULATOR_PORT}
+
+
   showdown_web:
     build:
       context: .
       dockerfile: dockerfiles/pokemon_showdown.Dockerfile
     expose:
-      - 8000
+      - ${SHOWDOWN_WEB_PORT}
