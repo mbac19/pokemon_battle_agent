@@ -1,6 +1,8 @@
-import * as Types from "../types";
+export interface BattleStream {
+  readonly id: string;
 
-export type PokemonBattle = unknown;
+  readonly logs: Array<string>;
+}
 
 export interface DB {
   // ---------------------------------------------------------------------------
@@ -12,8 +14,8 @@ export interface DB {
   stop(): Promise<void>;
 
   // ---------------------------------------------------------------------------
-  // BATTLE API
+  // BATTLE STREAM API
   // ---------------------------------------------------------------------------
 
-  genMakeBattle(): Promise<PokemonBattle>;
+  genMakeBattleStream(): Promise<BattleStream>;
 }
