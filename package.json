@@ -1,5 +1,5 @@
 {
-  "name": "pokemon_battle_agent",
+  "name": "@levr/pba-workspace",
   "version": "0.0.1",
   "scripts": {},
   "devDependencies": {
@@ -11,10 +11,22 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
-    "@fifr/error_utils": "*",
     "inversify": "5.0.1",
     "reflect-metadata": "^0.1.13",
     "source-map-support": "^0.5.16"
   },
-  "workspaces": []
+  "workspaces": [
+    "battle_simulator"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbac19/pokemon_battle_agent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbac19/pokemon_battle_agent/issues"
+  },
+  "homepage": "https://github.com/mbac19/pokemon_battle_agent#readme"
 }
