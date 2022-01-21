@@ -5,13 +5,17 @@ services:
     build:
       context: .
       dockerfile: dockerfiles/battle_simulator.Dockerfile
+    environment:
+      BATTLE_SIMULATOR_PORT: ${BATTLE_SIMULATOR_PORT}
     expose:
       - ${BATTLE_SIMULATOR_PORT}
+    ports:
+      - ${BATTLE_SIMULATOR_PORT}:${BATTLE_SIMULATOR_PORT}
 
 
-  showdown_web:
-    build:
-      context: .
-      dockerfile: dockerfiles/pokemon_showdown.Dockerfile
-    expose:
-      - ${SHOWDOWN_WEB_PORT}
+  # showdown_web:
+  #   build:
+  #     context: .
+  #     dockerfile: dockerfiles/pokemon_showdown.Dockerfile
+  #   expose:
+  #     - ${SHOWDOWN_WEB_PORT}

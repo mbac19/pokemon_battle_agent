@@ -6,6 +6,6 @@ export interface Env {
 
 export function buildEnv(): Env {
   return {
-    port: env.ge("BATTLE_SIMULATOR_PORT").required().asPortNumber(),
+    port: env.get("BATTLE_SIMULATOR_PORT").required().asPortNumber(),
   };
 }

@@ -1,7 +1,11 @@
 {
   "name": "@levr/pba-workspace",
   "version": "0.0.1",
-  "scripts": {},
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "clean": "npm run clean --workspaces",
+    "start:services": "docker-compose up --build"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.10",
     "@types/node": "10.17.27",
@@ -23,7 +27,7 @@
     "type": "git",
     "url": "git+https://github.com/mbac19/pokemon_battle_agent.git"
   },
-  "author": "",
+  "author": "Brendan McNamara",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mbac19/pokemon_battle_agent/issues"
