@@ -20,7 +20,8 @@
     "source-map-support": "^0.5.16"
   },
   "workspaces": [
-    "battle_simulator"
+    "battle_simulator",
+    "pokemon_showdown"
   ],
   "main": "index.js",
   "repository": {
