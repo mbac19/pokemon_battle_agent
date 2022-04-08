@@ -15,7 +15,9 @@
     "typescript": "~3.9.7"
   },
   "dependencies": {
+    "@levr/pokemon_showdown": "./pokemon_showdown",
     "inversify": "5.0.1",
+    "minimist": " ^1.2.5",
     "reflect-metadata": "^0.1.13",
     "source-map-support": "^0.5.16"
   },
