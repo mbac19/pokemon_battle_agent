@@ -1,153 +1,194 @@
-,p1_name,p2_name,p_winner,is_rated_battle,p1_rating,p2_rating,team1_count,team2_count,p1_poke1,p1_poke2,p1_poke3,p1_poke4,p1_poke5,p1_poke6,p2_poke1,p2_poke2,p2_poke3,p2_poke4,p2_poke5,p2_poke6,p1_contains_unknown_poke,p2_contains_unknown_poke
-0,Rhodes28,sbq1e,p1,True,1391,1440,6,6,Dragapult,Darmanitan,Lycanroc,Lapras,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Dragapult,Darmanitan,Lycanroc,Lapras,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-1,Xebrilag27,Rage69,p2,True,1754,1784,6,6,Arctovish,Salazzle,Jellicent,Blacephalon,Electivire,Sirfetch’d,Arctovish,Salazzle,Jellicent,Blacephalon,Electivire,Sirfetch’d,False,True
-2,Raccoonis,WhoIsJoeLigma?,p1,True,1085,1058,6,6,Haxorus,Urshifu,Dubwool,Duraludon,Luxray,__UNKNOWN_POKEMON__,Haxorus,Urshifu,Dubwool,Duraludon,Luxray,__UNKNOWN_POKEMON__,True,False
-3,bembi,SecondaryStomach,p1,True,1269,1315,6,6,Ludicolo,Thundurus,Magearna,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Ludicolo,Thundurus,Magearna,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-4,MrCrunchBar,Primainprime,p2,False,,,6,6,Centiskorch,Scyther,Togedemaru,Venusaur,Solgaleo,Talonflame,Centiskorch,Scyther,Togedemaru,Venusaur,Solgaleo,Talonflame,False,True
-5,Connor66,WhoIsJoeLigma?,p2,True,1000,1024,6,6,Starmie,Tornadus,Rhydon,Zacian,Noctowl,Lucario,Starmie,Tornadus,Rhydon,Zacian,Noctowl,Lucario,False,False
-6,18Chris4,ShadowQ8,p2,True,1996,1976,6,6,Runerigus,Solgaleo,Victini,Talonflame,Scolipede,Omastar,Runerigus,Solgaleo,Victini,Talonflame,Scolipede,Omastar,False,True
-7,Velky Carodej,Facetious_0ne,p2,True,1207,1162,6,6,Manectric,Groudon,Dragonite,Metagross,Gengar,Nihilego,Manectric,Groudon,Dragonite,Metagross,Gengar,Nihilego,False,True
-8,lozone,Wolfgang987,p1,True,1000,1000,6,6,Samurott,Castform,Sneasel,Rotom-Wash,Sceptile,Drampa,Samurott,Castform,Sneasel,Rotom-Wash,Sceptile,Drampa,False,False
-9,FunMachine888,Down2bdown,p1,True,1403,1335,6,6,Golurk,Hitmonlee,Gyarados,Beheeyem,Steelix,Urshifu,Golurk,Hitmonlee,Gyarados,Beheeyem,Steelix,Urshifu,False,False
-10,Jsuauav,NightWingFound,p2,True,1030,1025,6,6,Whimsicott,Salazzle,Porygon2,Bellossom,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Whimsicott,Salazzle,Porygon2,Bellossom,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-11,dashram,Shettick,p2,True,1482,1437,6,6,Poliwrath,Ninetales,Torkoal,Incineroar,Lanturn,Vileplume,Poliwrath,Ninetales,Torkoal,Incineroar,Lanturn,Vileplume,False,True
-12,BSK2000,Velky Carodej,p1,True,1286,1228,6,6,Celebi,Lucario,Corviknight,Trevenant,Slowbro,__UNKNOWN_POKEMON__,Celebi,Lucario,Corviknight,Trevenant,Slowbro,__UNKNOWN_POKEMON__,True,False
-13,minc3r,M.I.G MOULA,p2,True,1381,1439,6,6,Claydol,Tapu,Regice,Groudon,Drampa,Tyranitar,Claydol,Tapu,Regice,Groudon,Drampa,Tyranitar,False,False
-14,Ninjax07,Guest 5833220,p2,False,,,6,6,Mamoswine,Slowbro,Crobat,Porygon-Z,Cinderace,Morpeko,Mamoswine,Slowbro,Crobat,Porygon-Z,Cinderace,Morpeko,False,False
-15,BlackMisaya,rko619,p2,True,1593,1635,6,6,Xerneas,Salazzle,Celebi,Corsola,Stoutland,Azelf,Xerneas,Salazzle,Celebi,Corsola,Stoutland,Azelf,False,True
-16,RainCXI,Dark Umbreon 08,p2,True,1249,1270,6,6,Jirachi,Quagsire,Magearna,Blastoise,Gengar,Alakazam,Jirachi,Quagsire,Magearna,Blastoise,Gengar,Alakazam,False,True
-17,Giga㋛Chandelure-,Sinpleto,p1,True,,,3,3,Crustle,Genesect,Vespiquen,__NO_POKEMON__,__NO_POKEMON__,__NO_POKEMON__,Crustle,Genesect,Vespiquen,__NO_POKEMON__,__NO_POKEMON__,__NO_POKEMON__,False,False
-18,UrshiFUN,thangxang,p1,True,,,6,6,Ho-Oh,Incineroar,Cinccino,Sableye,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Ho-Oh,Incineroar,Cinccino,Sableye,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-19,dabao665,Mozar1,p1,True,1520,1509,6,6,Tauros,Zygarde,Lurantis,Clawitzer,Darmanitan,Zapdos,Tauros,Zygarde,Lurantis,Clawitzer,Darmanitan,Zapdos,False,False
-20,Mattl der Grosse,davibicaco,p1,True,1074,1122,6,6,Aromatisse,Incineroar,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Aromatisse,Incineroar,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-21,baiyehua,anueru432,p1,True,1656,1714,6,6,Avalugg,Coalossal,Jellicent,Tentacruel,Duraludon,__UNKNOWN_POKEMON__,Avalugg,Coalossal,Jellicent,Tentacruel,Duraludon,__UNKNOWN_POKEMON__,True,False
-22,WeirderConcoctions,PhantomK9,p1,True,1308,1358,6,6,Farfetch’d,Ninjask,Ninetales,Coalossal,Suicune,Rotom,Farfetch’d,Ninjask,Ninetales,Coalossal,Suicune,Rotom,False,False
-23,Oisisix,19der,p2,False,,,6,6,Hawlucha,Decidueye,Hitmontop,Volcarona,Linoone,Butterfree,Hawlucha,Decidueye,Hitmontop,Volcarona,Linoone,Butterfree,False,True
-24,Free Dratini,jonsno100,p1,True,1668,1724,6,6,Mantine,Gardevoir,Krookodile,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Mantine,Gardevoir,Krookodile,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-25,AngryAron,TheSquishyTurtle,p2,True,1266,1287,6,6,Sandaconda,Slowking,Gourgeist,Corviknight,Marowak,__UNKNOWN_POKEMON__,Sandaconda,Slowking,Gourgeist,Corviknight,Marowak,__UNKNOWN_POKEMON__,True,True
-26,Alvin94,Free Dratini,p2,True,1585,1652,6,6,Talonflame,Pelipper,Leafeon,Stonjourner,Rhyperior,__UNKNOWN_POKEMON__,Talonflame,Pelipper,Leafeon,Stonjourner,Rhyperior,__UNKNOWN_POKEMON__,True,True
-27,lockedbttm,stinkybuttowski,p1,True,1333,1314,6,6,Latios,Passimian,Audino,Relicanth,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Latios,Passimian,Audino,Relicanth,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-28,I<3Shotas,Huateen,p2,True,1364,1335,6,6,Frosmoth,Milotic,Quagsire,Kyurem,Zygarde,__UNKNOWN_POKEMON__,Frosmoth,Milotic,Quagsire,Kyurem,Zygarde,__UNKNOWN_POKEMON__,True,False
-29,quavis,dragonfruit15,p2,True,1572,1534,6,6,Barraskewda,Necrozma,Grapploct,Galvantula,Ludicolo,__UNKNOWN_POKEMON__,Barraskewda,Necrozma,Grapploct,Galvantula,Ludicolo,__UNKNOWN_POKEMON__,True,True
-30,NoBoobs_VineBoom,CraigsterYT,p1,False,,,6,6,Regigigas,Solrock,Darmanitan,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Regigigas,Solrock,Darmanitan,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-31,Glargg,lockedbttm,p2,True,1347,1311,6,6,Audino,Diggersby,Seismitoad,Bisharp,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Audino,Diggersby,Seismitoad,Bisharp,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-32,neverthinkthisname,Bither37,p1,True,1000,1000,6,6,Excadrill,Rayquaza,Salazzle,Porygon-Z,Avalugg,__UNKNOWN_POKEMON__,Excadrill,Rayquaza,Salazzle,Porygon-Z,Avalugg,__UNKNOWN_POKEMON__,True,True
-33,marquise br0wn,Kazooey,p1,True,1806,1840,6,6,Articuno,Salazzle,Golisopod,Stonjourner,Corsola,__UNKNOWN_POKEMON__,Articuno,Salazzle,Golisopod,Stonjourner,Corsola,__UNKNOWN_POKEMON__,True,True
-34,SoupMan14,abuelixta,p1,True,1478,1482,6,6,Malamar,Cloyster,Raichu,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Malamar,Cloyster,Raichu,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-35,Arandomname3,BlueRayquaza25,p1,True,1514,1483,6,6,Toxicroak,Scolipede,Latios,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Toxicroak,Scolipede,Latios,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-36,DragonMasterVeee,Darrenz978,p2,True,1040,1002,6,6,Aegislash,Arctovish,Rhyperior,Duraludon,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Aegislash,Arctovish,Rhyperior,Duraludon,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-37,toxicshucklejuice,eeveeleon154,p1,False,,,6,6,Eldegoss,Reuniclus,Vileplume,Regieleki,Blastoise,__UNKNOWN_POKEMON__,Eldegoss,Reuniclus,Vileplume,Regieleki,Blastoise,__UNKNOWN_POKEMON__,True,False
-38,Congokkkj,Lipinholero,p2,False,,,6,6,Magnezone,Celebi,Shedinja,Skarmory,Omastar,Jellicent,Magnezone,Celebi,Shedinja,Skarmory,Omastar,Jellicent,False,True
-39,broad boat 26,RanbooStan,p2,True,1000,1024,6,6,Cradily,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Cradily,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-40,bootyheans,Ukyz,p1,True,1397,1437,6,6,Beartic,Entei,Doublade,Lilligant,Pincurchin,__UNKNOWN_POKEMON__,Beartic,Entei,Doublade,Lilligant,Pincurchin,__UNKNOWN_POKEMON__,True,False
-41,fadedalex,rgfesfesfdsgf,p1,True,1043,1000,6,6,Butterfree,Ninetales,Pincurchin,Durant,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Butterfree,Ninetales,Pincurchin,Durant,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-42,Umbreon717,TuAbuelaEnChones,p1,True,1505,1540,6,6,Kabutops,Shuckle,Tornadus,Cofagrigus,Toxtricity,__UNKNOWN_POKEMON__,Kabutops,Shuckle,Tornadus,Cofagrigus,Toxtricity,__UNKNOWN_POKEMON__,True,False
-43,SmokeBomb24,Rolillerena,p2,True,1221,1196,6,6,Scizor,Whiscash,Nidoking,Sirfetch’d,Naganadel,Rotom,Scizor,Whiscash,Nidoking,Sirfetch’d,Naganadel,Rotom,False,True
-44,RobinOfYlisse,Mbouchon,p2,True,,,24,24,Goodra,Duraludon,Flygon,Rayquaza,Dragapult,Latias,Goodra,Duraludon,Flygon,Rayquaza,Dragapult,Latias,True,True
-45,SoulFire9002,InnerVisage,p1,True,1872,1909,6,6,Rhyperior,Shiftry,Nidoking,Duraludon,Cresselia,__UNKNOWN_POKEMON__,Rhyperior,Shiftry,Nidoking,Duraludon,Cresselia,__UNKNOWN_POKEMON__,True,True
-46,r\/nsfl__,Bigbrand02,p1,True,1285,1283,6,6,Ho-Oh,Weezing,Copperajah,Seismitoad,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Ho-Oh,Weezing,Copperajah,Seismitoad,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-47,Benji1111,Jdjdjdudndjdhx,p2,True,1121,1119,6,6,Farfetch’d,Omastar,Giratina,Porygon-Z,Flygon,Sceptile,Farfetch’d,Omastar,Giratina,Porygon-Z,Flygon,Sceptile,False,False
-48,godlikeshitter,rowletroost,p2,True,1415,1430,6,6,Suicune,Slowbro,Arctovish,Toxicroak,Boltund,Lopunny,Suicune,Slowbro,Arctovish,Toxicroak,Boltund,Lopunny,False,False
-49,kypong,howdoicrit,p2,True,1248,1200,6,6,Drapion,Ribombee,Kyurem,Centiskorch,Unfezant,Barraskewda,Drapion,Ribombee,Kyurem,Centiskorch,Unfezant,Barraskewda,False,False
-50,Charliexx,etmxd,p1,False,,,6,6,Tangela,Cloyster,Sandslash,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Tangela,Cloyster,Sandslash,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-51,143 bpm,AchillesADHD,p2,True,1424,1484,6,6,Quagsire,Mamoswine,Emolga,Leafeon,Regieleki,Virizion,Quagsire,Mamoswine,Emolga,Leafeon,Regieleki,Virizion,False,True
-52,Frffefgg,mat123s,p1,True,1000,1000,6,6,Thundurus,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Thundurus,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-53,Drabhater,Hshshsheheh,p1,True,1104,1117,6,6,Crawdaunt,Gastrodon,Thundurus,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Crawdaunt,Gastrodon,Thundurus,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-54,hexash,emilien444,p1,True,,,6,6,Mr.,Umbreon,Rotom,Rhydon,Buzzwole,__UNKNOWN_POKEMON__,Mr.,Umbreon,Rotom,Rhydon,Buzzwole,__UNKNOWN_POKEMON__,True,False
-55,Lipinholero,Congokkkj,p1,False,,,6,6,Cinderace,Tornadus,Walrein,Crawdaunt,Duraludon,Magearna,Cinderace,Tornadus,Walrein,Crawdaunt,Duraludon,Magearna,False,False
-56,tiptiptip,vijilance,p1,True,1425,1415,6,6,Miltank,Butterfree,Bisharp,Flygon,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Miltank,Butterfree,Bisharp,Flygon,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-57,raceface111,dazer141,p1,True,1507,1468,6,6,Tapu,Reshiram,Seaking,Virizion,Mr.,Slurpuff,Tapu,Reshiram,Seaking,Virizion,Mr.,Slurpuff,False,False
-58,monoladerer,Spyros007,p2,True,1892,1919,6,6,Pyukumuku,Drapion,Porygon2,Rayquaza,Lanturn,Entei,Pyukumuku,Drapion,Porygon2,Rayquaza,Lanturn,Entei,False,False
-59,phanta_phanta,lemontium,p1,True,1268,1276,6,6,Stonjourner,Bisharp,Slowbro,Coalossal,Pikachu,Talonflame,Stonjourner,Bisharp,Slowbro,Coalossal,Pikachu,Talonflame,False,False
-60,Injbuvy,Juan413,p2,True,1040,1000,6,6,Cherrim,Ninjask,Nihilego,Alcremie,Hawlucha,Exploud,Cherrim,Ninjask,Nihilego,Alcremie,Hawlucha,Exploud,False,False
-61,Pollllokn,jerome boger,p2,True,1167,1151,6,6,Ho-Oh,Regice,Flareon,Machamp,Swampert,Milotic,Ho-Oh,Regice,Flareon,Machamp,Swampert,Milotic,False,True
-62,asddasadsads,Omnimon merciful m,p1,True,1584,1524,6,6,Marowak,Keldeo,Zacian,Luxray,Mew,__UNKNOWN_POKEMON__,Marowak,Keldeo,Zacian,Luxray,Mew,__UNKNOWN_POKEMON__,True,False
-63,Ddsc3,comic pal,p2,False,,,6,6,Latias,Omastar,Spectrier,Greedent,Sandslash,Rotom,Latias,Omastar,Spectrier,Greedent,Sandslash,Rotom,False,False
-64,Moehitta,TB10,p2,True,1431,1412,6,6,Darmanitan,Wishiwashi,Pheromosa,Diggersby,Heatran,Glastrier,Darmanitan,Wishiwashi,Pheromosa,Diggersby,Heatran,Glastrier,False,True
-65,Brentdv,AllLivesMatter88,p2,True,1466,1498,6,6,Chandelure,Abomasnow,Excadrill,Skuntank,Talonflame,__UNKNOWN_POKEMON__,Chandelure,Abomasnow,Excadrill,Skuntank,Talonflame,__UNKNOWN_POKEMON__,True,True
-66,Bryski3912,Masterctrl HHTA,p2,True,1458,1480,6,6,Arctozolt,Barraskewda,Nidoking,Wobbuffet,Stakataka,Poliwrath,Arctozolt,Barraskewda,Nidoking,Wobbuffet,Stakataka,Poliwrath,False,False
-67,Bluubus11,Naman125A,p1,True,1065,1102,6,6,Necrozma,Garbodor,Sandaconda,Nidoking,Clefable,Rotom,Necrozma,Garbodor,Sandaconda,Nidoking,Clefable,Rotom,False,False
-68,Omnimon merciful m,Fuminium,p1,True,1503,1501,6,6,Sableye,Salazzle,Slowbro,Scrafty,Indeedee,__UNKNOWN_POKEMON__,Sableye,Salazzle,Slowbro,Scrafty,Indeedee,__UNKNOWN_POKEMON__,True,False
-69,Kaideos,Tremere,p2,True,1461,1418,6,6,Sandslash,Virizion,Mimikyu,Bewear,Scyther,Cofagrigus,Sandslash,Virizion,Mimikyu,Bewear,Scyther,Cofagrigus,False,False
-70,flarteon,Quartia,p1,False,,,6,6,Zapdos,Relicanth,Zygarde,Moltres,Hatterene,__UNKNOWN_POKEMON__,Zapdos,Relicanth,Zygarde,Moltres,Hatterene,__UNKNOWN_POKEMON__,True,False
-71,Morningstar2502,Arsenal66,p2,False,,,6,6,Zapdos,Togedemaru,Kingler,Vileplume,Klefki,Scolipede,Zapdos,Togedemaru,Kingler,Vileplume,Klefki,Scolipede,False,True
-72,SwagMasterdanielo,LittleFox2000,p2,False,,,6,6,Cloyster,Golurk,Slowking,Mr.,Weezing,Naganadel,Cloyster,Golurk,Slowking,Mr.,Weezing,Naganadel,False,False
-73,gordomistiko,go brrrrrr,p1,True,1546,1509,6,6,Accelgor,Celesteela,Virizion,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Accelgor,Celesteela,Virizion,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-74,Salim123456,ilusionista11,p2,True,1897,1887,6,6,Claydol,Slowbro,Zarude,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Claydol,Slowbro,Zarude,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-75,yaymachine,Natty Chad,p2,True,1745,1824,6,6,Rhydon,Buzzwole,Mr.,Porygon2,Xerneas,Scyther,Rhydon,Buzzwole,Mr.,Porygon2,Xerneas,Scyther,False,True
-76,kingl123,LastSonOfDathomir,p2,True,1617,1638,6,6,Stonjourner,Xerneas,Mesprit,Noivern,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Stonjourner,Xerneas,Mesprit,Noivern,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-77,Alistaaar,Astra7675,p1,False,,,6,6,Espeon,Lopunny,Thundurus,Zygarde,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Espeon,Lopunny,Thundurus,Zygarde,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-78,Professor Hamdawg,Luuuke93,p1,True,1463,1495,6,6,Cradily,Chandelure,Passimian,Lugia,Lunala,Goodra,Cradily,Chandelure,Passimian,Lugia,Lunala,Goodra,False,False
-79,Swinvell,TuAbuelaEnChones,p2,True,1511,1475,6,6,Marshadow,Lapras,Passimian,Ribombee,Crobat,Marowak,Marshadow,Lapras,Passimian,Ribombee,Crobat,Marowak,False,False
-80,Thails,Captain Dopey,p2,True,1455,1430,6,6,Golisopod,Cinderace,Togedemaru,Xerneas,Obstagoon,Drednaw,Golisopod,Cinderace,Togedemaru,Xerneas,Obstagoon,Drednaw,False,False
-81,AlienGeek96,ChuckyBlackK,p1,True,1423,1448,6,6,Froslass,Talonflame,Virizion,Drifblim,Zarude,__UNKNOWN_POKEMON__,Froslass,Talonflame,Virizion,Drifblim,Zarude,__UNKNOWN_POKEMON__,True,False
-82,ItzMeOmimYT,Ganjaaaaaa,p2,False,,,6,6,Oranguru,Blastoise,Calyrex,Frosmoth,Zapdos,Garbodor,Oranguru,Blastoise,Calyrex,Frosmoth,Zapdos,Garbodor,False,True
-83,Harmikk,Bbhhgvt then reke,p1,True,1061,1039,6,6,Escavalier,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Escavalier,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-84,ubiquitousvader,im not a lamp,p1,True,1946,1959,6,6,Sharpedo,Mandibuzz,Rotom,Clawitzer,Claydol,Snorlax,Sharpedo,Mandibuzz,Rotom,Clawitzer,Claydol,Snorlax,False,False
-85,Velky Carodej,jotiiiiss,p2,True,1254,1258,6,6,Stoutland,Rillaboom,Eternatus,Sylveon,Umbreon,Cresselia,Stoutland,Rillaboom,Eternatus,Sylveon,Umbreon,Cresselia,False,False
-86,bogeitor,Salfy,p2,True,1467,1500,6,6,Gastrodon,Weezing,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Gastrodon,Weezing,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-87,sutarran,ryota334,p1,True,1000,1000,6,6,Darmanitan,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Darmanitan,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-88,lporr011,keeper of the milk,p1,True,1344,1343,6,6,Rhydon,Lanturn,Pheromosa,Lycanroc,Altaria,Kingler,Rhydon,Lanturn,Pheromosa,Lycanroc,Altaria,Kingler,False,False
-89,IIbunnyII,axtell,p2,True,1529,1561,6,6,Braviary,Shedinja,Scizor,Incineroar,Mr.,Manectric,Braviary,Shedinja,Scizor,Incineroar,Mr.,Manectric,False,True
-90,LenaDemont,unclesnoop,p1,True,1487,1455,6,6,Porygon-Z,Rotom,Dragalge,Scolipede,Kingler,__UNKNOWN_POKEMON__,Porygon-Z,Rotom,Dragalge,Scolipede,Kingler,__UNKNOWN_POKEMON__,True,False
-91,vaporterra,uibeas,p1,True,1408,1439,6,6,Lugia,Poliwrath,Zapdos,Jolteon,Dhelmise,Aegislash,Lugia,Poliwrath,Zapdos,Jolteon,Dhelmise,Aegislash,False,False
-92,143 bpm,dobro76,p1,True,1391,1389,6,6,Yveltal,Toxicroak,Jirachi,Silvally,Sableye,__UNKNOWN_POKEMON__,Yveltal,Toxicroak,Jirachi,Silvally,Sableye,__UNKNOWN_POKEMON__,True,False
-93,cobilton,Alpha28056,p1,True,1233,1281,6,6,Golduck,Umbreon,Sceptile,Sharpedo,Kyurem,Braviary,Golduck,Umbreon,Sceptile,Sharpedo,Kyurem,Braviary,False,False
-94,AnonymousBW,Must4tt,p2,True,1538,1581,6,6,Hydreigon,Ribombee,Cofagrigus,Mr.,Reuniclus,Passimian,Hydreigon,Ribombee,Cofagrigus,Mr.,Reuniclus,Passimian,False,True
-95,EnchantedGA,Hahbava,p1,True,1135,1091,6,6,Aegislash,Heatran,Inteleon,Shuckle,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Aegislash,Heatran,Inteleon,Shuckle,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-96,bembi,WomenWinning,p2,True,1285,1298,6,6,Terrakion,Zekrom,Oranguru,Mandibuzz,Druddigon,__UNKNOWN_POKEMON__,Terrakion,Zekrom,Oranguru,Mandibuzz,Druddigon,__UNKNOWN_POKEMON__,True,True
-97,JigglyPink5,stayfrosty1515,p1,True,1398,1390,6,6,Ninetales,Regirock,Pyukumuku,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Ninetales,Regirock,Pyukumuku,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-98,Memerica,Bucket o mudkip,p1,True,1000,1029,6,6,Kingler,Moltres,Porygon2,Drednaw,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Kingler,Moltres,Porygon2,Drednaw,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-99,SttavoS,grtlmns,p2,True,1412,1383,6,6,Pheromosa,Raichu,Latios,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Pheromosa,Raichu,Latios,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-100,Omnimon merciful m,Babaganush,p1,True,1546,1604,6,6,Marowak,Entei,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Marowak,Entei,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-101,papa biden,dr.pokenom,p2,True,1160,1114,6,6,Centiskorch,Toxtricity,Dracozolt,Rillaboom,Kyogre,Grimmsnarl,Centiskorch,Toxtricity,Dracozolt,Rillaboom,Kyogre,Grimmsnarl,False,True
-102,polypus,Ghetziz,p2,True,1326,1353,6,6,Thievul,Octillery,Rotom,Blissey,Marshadow,Galvantula,Thievul,Octillery,Rotom,Blissey,Marshadow,Galvantula,False,False
-103,xzcojiwer,Ddggy,p1,True,1093,1062,6,6,Braviary,Raichu,Rotom,Porygon2,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Braviary,Raichu,Rotom,Porygon2,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-104,0-0owo,bruced0109,p2,True,1368,1359,6,6,Rotom,Excadrill,Marowak,Aromatisse,Indeedee,Blissey,Rotom,Excadrill,Marowak,Aromatisse,Indeedee,Blissey,False,True
-105,MiyamuraUwux,DaniusDaniu,p2,False,,,6,6,Inteleon,Regice,Diancie,Urshifu,Toxapex,Rhyperior,Inteleon,Regice,Diancie,Urshifu,Toxapex,Rhyperior,False,True
-106,Khangadf,pabloperezacopa,p1,True,1000,1026,6,6,Urshifu,Durant,Rhyperior,Rapidash,Ho-Oh,Omastar,Urshifu,Durant,Rhyperior,Rapidash,Ho-Oh,Omastar,False,False
-107,Johhny Bravo 2.0,untalchapin,p1,True,1856,1963,6,6,Inteleon,Sawk,Coalossal,Slowking,Omastar,__UNKNOWN_POKEMON__,Inteleon,Sawk,Coalossal,Slowking,Omastar,__UNKNOWN_POKEMON__,True,False
-108,thehuman2cs,GetThoseWman,p1,True,1307,1378,6,6,Mew,Whimsicott,Obstagoon,Kyogre,Gallade,Mienshao,Mew,Whimsicott,Obstagoon,Kyogre,Gallade,Mienshao,False,False
-109,bulgar,Tiago995,p1,True,1294,1328,6,6,Kingler,Slurpuff,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Kingler,Slurpuff,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-110,Nuzleafwarrior7778,Jagg96,p1,True,1590,1572,6,6,Porygon2,Corviknight,Mawile,Quagsire,Druddigon,Gurdurr,Porygon2,Corviknight,Mawile,Quagsire,Druddigon,Gurdurr,False,False
-111,SpanishSebas,picho,p1,True,1555,1593,6,6,Togedemaru,Wigglytuff,Nidoqueen,Heatmor,Barraskewda,Goodra,Togedemaru,Wigglytuff,Nidoqueen,Heatmor,Barraskewda,Goodra,False,False
-112,SabrinaLouana,Blue_leader44,p1,True,1672,1627,6,6,Urshifu,Klinklang,Blastoise,Guzzlord,Porygon2,__UNKNOWN_POKEMON__,Urshifu,Klinklang,Blastoise,Guzzlord,Porygon2,__UNKNOWN_POKEMON__,True,True
-113,Greghehhehmyjam,Canela22,p2,True,1000,1012,6,6,Gourgeist,Machamp,Pikachu,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Gourgeist,Machamp,Pikachu,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-114,BernadetteIsABitch,jktymuddytrds,p2,True,1000,1000,6,6,Meowstic,Rotom,Crobat,Kyogre,Gengar,Thundurus,Meowstic,Rotom,Crobat,Kyogre,Gengar,Thundurus,False,True
-115,babycharizardtoken,Trixie_Valuez,p1,True,1060,1032,6,6,Druddigon,Corsola,Blastoise,Landorus,Sudowoodo,Scizor,Druddigon,Corsola,Blastoise,Landorus,Sudowoodo,Scizor,False,False
-116,yuebjfud628,bobvill06,p2,True,1453,1420,6,6,Wishiwashi,Duraludon,Togekiss,Kyurem,Excadrill,Sirfetch’d,Wishiwashi,Duraludon,Togekiss,Kyurem,Excadrill,Sirfetch’d,False,True
-117,whateveryouwant123,WillyBk,p2,True,1252,1245,6,6,Frosmoth,Slowbro,Shiftry,Gastrodon,Glastrier,Amoonguss,Frosmoth,Slowbro,Shiftry,Gastrodon,Glastrier,Amoonguss,False,True
-118,Atrivee,Pikasmith,p1,True,1000,1018,6,6,Gastrodon,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Gastrodon,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-119,slickrick29,WomenWinning,p1,True,1529,1550,6,6,Azumarill,Machamp,Palkia,Buzzwole,Stonjourner,Linoone,Azumarill,Machamp,Palkia,Buzzwole,Stonjourner,Linoone,False,False
-120,LORD GAVEN,Bagel Boy 11,p1,True,1647,1695,6,6,Copperajah,Slowking,Jolteon,Kingler,Scrafty,Lurantis,Copperajah,Slowking,Jolteon,Kingler,Scrafty,Lurantis,False,False
-121,huddymustard,Giknxsthjcseyj,p1,True,1000,1000,6,6,Lilligant,Golurk,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Lilligant,Golurk,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-122,lucnogamer,Elmundobakugan26,p1,False,,,6,6,Zamazenta,Lycanroc,Pangoro,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Zamazenta,Lycanroc,Pangoro,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-123,javibalv,Grl. Dave,p1,True,1445,1420,6,6,Dhelmise,Absol,Buzzwole,Sawk,Groudon,Dracozolt,Dhelmise,Absol,Buzzwole,Sawk,Groudon,Dracozolt,False,False
-124,duffman1818,Salew,p2,True,1077,1082,6,6,Tornadus,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Tornadus,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-125,clarimongusito,Cuorenero,p1,True,2039,2240,6,6,Cofagrigus,Slowbro,Toxtricity,Exeggutor,Excadrill,__UNKNOWN_POKEMON__,Cofagrigus,Slowbro,Toxtricity,Exeggutor,Excadrill,__UNKNOWN_POKEMON__,True,False
-126,ImmortalSheep69,ciroguangabriel,p1,True,1072,1040,6,6,Meowstic,Scyther,Mawile,Sharpedo,Mienshao,Mudsdale,Meowstic,Scyther,Mawile,Sharpedo,Mienshao,Mudsdale,False,False
-127,1sttimebattlingok,Johhny Bravo 2.0,p2,True,1733,1778,6,6,Ho-Oh,Diggersby,Gastrodon,Ninetales,Crawdaunt,Butterfree,Ho-Oh,Diggersby,Gastrodon,Ninetales,Crawdaunt,Butterfree,False,False
-128,Mcmlcl,marcoo123456,p1,True,1497,1521,6,6,Slowbro,Dusknoir,Mamoswine,Mewtwo,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Slowbro,Dusknoir,Mamoswine,Mewtwo,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-129,justPoku,Ax Delta,p1,False,,,6,6,Cresselia,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Cresselia,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-130,Ultrafirestorm,negascott88,p2,True,1638,1604,6,6,Roserade,Volcarona,Ninetales,Latios,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Roserade,Volcarona,Ninetales,Latios,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-131,nr9686,Capbooker,p1,True,1098,1123,6,6,Urshifu,Regieleki,Drampa,Slowbro,Skarmory,Kabutops,Urshifu,Regieleki,Drampa,Slowbro,Skarmory,Kabutops,False,False
-132,Shenethememe133,Javivar99,p1,True,1929,1901,6,6,Salazzle,Exeggutor,Durant,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Salazzle,Exeggutor,Durant,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-133,yeet-potato_49,Stabby Abby,p2,True,1143,1105,6,6,Aegislash,Cloyster,Slowbro,Cradily,Zacian,Corviknight,Aegislash,Cloyster,Slowbro,Cradily,Zacian,Corviknight,False,False
-134,GloriousWolf920,Hckkgckhc,p2,True,1028,1045,6,6,Unfezant,Naganadel,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Unfezant,Naganadel,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-135,gatorpmcg,The Spinda Project,p1,True,,,6,6,Articuno,Carbink,Cresselia,Crobat,Beartic,__UNKNOWN_POKEMON__,Articuno,Carbink,Cresselia,Crobat,Beartic,__UNKNOWN_POKEMON__,True,False
-136,projectozzie,Blazinfern,p2,True,1122,1173,6,6,Mimikyu,Sigilyph,Musharna,Shiinotic,Dialga,__UNKNOWN_POKEMON__,Mimikyu,Sigilyph,Musharna,Shiinotic,Dialga,__UNKNOWN_POKEMON__,True,True
-137,TuAbuelaEnChones,Nivektowers,p2,True,1495,1484,6,6,Shiftry,Weezing,Kyogre,Sandslash,Tauros,Barbaracle,Shiftry,Weezing,Kyogre,Sandslash,Tauros,Barbaracle,False,True
-138,Flarelda,Callme8543214589,p2,True,1962,1935,6,6,Snorlax,Delibird,Marshadow,Tapu,Charizard,Sylveon,Snorlax,Delibird,Marshadow,Tapu,Charizard,Sylveon,False,False
-139,derplorddragon,raceface111,p2,True,1564,1575,6,6,Tangrowth,Blacephalon,Qwilfish,Omastar,Espeon,Darmanitan,Tangrowth,Blacephalon,Qwilfish,Omastar,Espeon,Darmanitan,False,True
-140,Nasvaah,MaxHasAFax,p2,True,1463,1449,6,6,Copperajah,Giratina,Pheromosa,Blacephalon,Cinccino,Sandslash,Copperajah,Giratina,Pheromosa,Blacephalon,Cinccino,Sandslash,False,False
-141,rebonack,hop23,p1,True,1650,1698,6,6,Xatu,Jellicent,Tangrowth,Zekrom,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Xatu,Jellicent,Tangrowth,Zekrom,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-142,TuAbuelaEnChones,TikiDT,p2,True,1512,1558,6,6,Gastrodon,Weezing,Drampa,Shuckle,Lopunny,Kyurem,Gastrodon,Weezing,Drampa,Shuckle,Lopunny,Kyurem,False,True
-143,romainleBG,jeezzzuuus,p1,True,1064,1104,6,6,Butterfree,Coalossal,Ho-Oh,Toxapex,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Butterfree,Coalossal,Ho-Oh,Toxapex,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-144,urbadimbad,Joaooo011_,p2,True,1106,1132,6,6,Pincurchin,Rhyperior,Charizard,Zekrom,Spiritomb,__UNKNOWN_POKEMON__,Pincurchin,Rhyperior,Charizard,Zekrom,Spiritomb,__UNKNOWN_POKEMON__,True,True
-145,Anmol Singh,BLUE54000,p1,False,,,6,6,Slurpuff,Politoed,Lycanroc,Ninetales,Urshifu,__UNKNOWN_POKEMON__,Slurpuff,Politoed,Lycanroc,Ninetales,Urshifu,__UNKNOWN_POKEMON__,True,False
-146,Play274,Twilight-8901̃-,p2,True,1170,1202,6,6,Toxicroak,Mamoswine,Giratina,Vaporeon,Sigilyph,__UNKNOWN_POKEMON__,Toxicroak,Mamoswine,Giratina,Vaporeon,Sigilyph,__UNKNOWN_POKEMON__,True,True
-147,Yakult_Ako,trying_toget_tough,p2,True,1498,1466,6,6,Barbaracle,Silvally,Ninetales,Sceptile,Palkia,Dubwool,Barbaracle,Silvally,Ninetales,Sceptile,Palkia,Dubwool,False,False
-148,Piggypigpig,megapupex,p1,True,1119,1067,6,6,Nidoking,Tapu,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Nidoking,Tapu,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,False
-149,Waspolo,Lazurium,p2,True,1394,1429,6,6,Shuckle,Charizard,Arctozolt,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Shuckle,Charizard,Arctozolt,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,True,True
-150,Korbomemero,Rajsters,p1,True,1300,1357,6,6,Pinsir,Krookodile,Sandslash,Marowak,Buzzwole,Kyurem,Pinsir,Krookodile,Sandslash,Marowak,Buzzwole,Kyurem,False,False
-151,Throw Games,GamerOmega2111,p1,True,1816,1785,6,6,Gigalith,Tapu,Solrock,Lapras,Kyurem,Pangoro,Gigalith,Tapu,Solrock,Lapras,Kyurem,Pangoro,False,False
+,p1_name,p2_name,p_winner,is_rated_battle,p1_rating,p2_rating,team1_count,team2_count,turn_count,p1_poke1,p1_poke2,p1_poke3,p1_poke4,p1_poke5,p1_poke6,p2_poke1,p2_poke2,p2_poke3,p2_poke4,p2_poke5,p2_poke6,team1_unknown_count,team2_unknown_count
+0,Rhodes28,sbq1e,p1,True,1391,1440,6,6,12,Dragapult,Darmanitan,Lycanroc,Lapras,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Dragapult,Darmanitan,Lycanroc,Lapras,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+1,Xebrilag27,Rage69,p2,True,1754,1784,6,6,26,Arctovish,Salazzle,Jellicent,Blacephalon,Electivire,Sirfetch’d,Arctovish,Salazzle,Jellicent,Blacephalon,Electivire,Sirfetch’d,0,1
+2,Raccoonis,WhoIsJoeLigma?,p1,True,1085,1058,6,6,23,Haxorus,Urshifu,Dubwool,Duraludon,Luxray,__UNKNOWN_POKEMON__,Haxorus,Urshifu,Dubwool,Duraludon,Luxray,__UNKNOWN_POKEMON__,1,0
+3,bembi,SecondaryStomach,p1,True,1269,1315,6,6,14,Ludicolo,Thundurus,Magearna,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Ludicolo,Thundurus,Magearna,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,0
+4,MrCrunchBar,Primainprime,p2,False,,,6,6,14,Centiskorch,Scyther,Togedemaru,Venusaur,Solgaleo,Talonflame,Centiskorch,Scyther,Togedemaru,Venusaur,Solgaleo,Talonflame,0,3
+5,Connor66,WhoIsJoeLigma?,p2,True,1000,1024,6,6,17,Starmie,Tornadus,Rhydon,Zacian,Noctowl,Lucario,Starmie,Tornadus,Rhydon,Zacian,Noctowl,Lucario,0,0
+6,18Chris4,ShadowQ8,p2,True,1996,1976,6,6,17,Runerigus,Solgaleo,Victini,Talonflame,Scolipede,Omastar,Runerigus,Solgaleo,Victini,Talonflame,Scolipede,Omastar,0,1
+7,Velky Carodej,Facetious_0ne,p2,True,1207,1162,6,6,22,Manectric,Groudon,Dragonite,Metagross,Gengar,Nihilego,Manectric,Groudon,Dragonite,Metagross,Gengar,Nihilego,0,1
+8,lozone,Wolfgang987,p1,True,1000,1000,6,6,21,Samurott,Castform,Sneasel,Rotom-Wash,Sceptile,Drampa,Samurott,Castform,Sneasel,Rotom-Wash,Sceptile,Drampa,0,0
+9,FunMachine888,Down2bdown,p1,True,1403,1335,6,6,26,Golurk,Hitmonlee,Gyarados,Beheeyem,Steelix,Urshifu,Golurk,Hitmonlee,Gyarados,Beheeyem,Steelix,Urshifu,0,0
+10,Jsuauav,NightWingFound,p2,True,1030,1025,6,6,18,Whimsicott,Salazzle,Porygon2,Bellossom,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Whimsicott,Salazzle,Porygon2,Bellossom,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,2
+11,dashram,Shettick,p2,True,1482,1437,6,6,17,Poliwrath,Ninetales,Torkoal,Incineroar,Lanturn,Vileplume,Poliwrath,Ninetales,Torkoal,Incineroar,Lanturn,Vileplume,0,3
+12,BSK2000,Velky Carodej,p1,True,1286,1228,6,6,26,Celebi,Lucario,Corviknight,Trevenant,Slowbro,__UNKNOWN_POKEMON__,Celebi,Lucario,Corviknight,Trevenant,Slowbro,__UNKNOWN_POKEMON__,1,0
+13,minc3r,M.I.G MOULA,p2,True,1381,1439,6,6,20,Claydol,Tapu Lele,Regice,Groudon,Drampa,Tyranitar,Claydol,Tapu Lele,Regice,Groudon,Drampa,Tyranitar,0,0
+14,Ninjax07,Guest 5833220,p2,False,,,6,6,29,Mamoswine,Slowbro,Crobat,Porygon-Z,Cinderace,Morpeko,Mamoswine,Slowbro,Crobat,Porygon-Z,Cinderace,Morpeko,0,0
+15,BlackMisaya,rko619,p2,True,1593,1635,6,6,28,Xerneas,Salazzle,Celebi,Corsola,Stoutland,Azelf,Xerneas,Salazzle,Celebi,Corsola,Stoutland,Azelf,0,1
+16,RainCXI,Dark Umbreon 08,p2,True,1249,1270,6,6,23,Jirachi,Quagsire,Magearna,Blastoise,Gengar,Alakazam,Jirachi,Quagsire,Magearna,Blastoise,Gengar,Alakazam,0,1
+18,UrshiFUN,thangxang,p1,True,,,6,6,7,Ho-Oh,Incineroar,Cinccino,Sableye,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Ho-Oh,Incineroar,Cinccino,Sableye,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,3
+19,dabao665,Mozar1,p1,True,1520,1509,6,6,23,Tauros,Zygarde,Lurantis,Clawitzer,Darmanitan,Zapdos,Tauros,Zygarde,Lurantis,Clawitzer,Darmanitan,Zapdos,0,0
+20,Mattl der Grosse,davibicaco,p1,True,1074,1122,6,6,7,Aromatisse,Incineroar,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Aromatisse,Incineroar,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,4,3
+21,baiyehua,anueru432,p1,True,1656,1714,6,6,23,Avalugg,Coalossal,Jellicent,Tentacruel,Duraludon,__UNKNOWN_POKEMON__,Avalugg,Coalossal,Jellicent,Tentacruel,Duraludon,__UNKNOWN_POKEMON__,1,0
+22,WeirderConcoctions,PhantomK9,p1,True,1308,1358,6,6,30,Farfetch’d,Ninjask,Ninetales,Coalossal,Suicune,Rotom,Farfetch’d,Ninjask,Ninetales,Coalossal,Suicune,Rotom,0,0
+23,Oisisix,19der,p2,False,,,6,6,21,Hawlucha,Decidueye,Hitmontop,Volcarona,Linoone,Butterfree,Hawlucha,Decidueye,Hitmontop,Volcarona,Linoone,Butterfree,0,1
+24,Free Dratini,jonsno100,p1,True,1668,1724,6,6,13,Mantine,Gardevoir,Krookodile,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Mantine,Gardevoir,Krookodile,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,1
+25,AngryAron,TheSquishyTurtle,p2,True,1266,1287,6,6,16,Sandaconda,Slowking,Gourgeist,Corviknight,Marowak,__UNKNOWN_POKEMON__,Sandaconda,Slowking,Gourgeist,Corviknight,Marowak,__UNKNOWN_POKEMON__,1,2
+26,Alvin94,Free Dratini,p2,True,1585,1652,6,6,32,Talonflame,Pelipper,Leafeon,Stonjourner,Rhyperior,__UNKNOWN_POKEMON__,Talonflame,Pelipper,Leafeon,Stonjourner,Rhyperior,__UNKNOWN_POKEMON__,1,1
+27,lockedbttm,stinkybuttowski,p1,True,1333,1314,6,6,16,Latios,Passimian,Audino,Relicanth,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Latios,Passimian,Audino,Relicanth,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,1
+28,I<3Shotas,Huateen,p2,True,1364,1335,6,6,22,Frosmoth,Milotic,Quagsire,Kyurem,Zygarde,__UNKNOWN_POKEMON__,Frosmoth,Milotic,Quagsire,Kyurem,Zygarde,__UNKNOWN_POKEMON__,1,0
+29,quavis,dragonfruit15,p2,True,1572,1534,6,6,17,Barraskewda,Necrozma,Grapploct,Galvantula,Ludicolo,__UNKNOWN_POKEMON__,Barraskewda,Necrozma,Grapploct,Galvantula,Ludicolo,__UNKNOWN_POKEMON__,1,3
+30,NoBoobs_VineBoom,CraigsterYT,p1,False,,,6,6,16,Regigigas,Solrock,Darmanitan,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Regigigas,Solrock,Darmanitan,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,0
+31,Glargg,lockedbttm,p2,True,1347,1311,6,6,11,Audino,Diggersby,Seismitoad,Bisharp,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Audino,Diggersby,Seismitoad,Bisharp,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,3
+32,neverthinkthisname,Bither37,p1,True,1000,1000,6,6,32,Excadrill,Rayquaza,Salazzle,Porygon-Z,Avalugg,__UNKNOWN_POKEMON__,Excadrill,Rayquaza,Salazzle,Porygon-Z,Avalugg,__UNKNOWN_POKEMON__,1,1
+33,marquise br0wn,Kazooey,p1,True,1806,1840,6,6,23,Articuno,Salazzle,Golisopod,Stonjourner,Corsola,__UNKNOWN_POKEMON__,Articuno,Salazzle,Golisopod,Stonjourner,Corsola,__UNKNOWN_POKEMON__,1,2
+34,SoupMan14,abuelixta,p1,True,1478,1482,6,6,8,Malamar,Cloyster,Raichu,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Malamar,Cloyster,Raichu,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,3
+35,Arandomname3,BlueRayquaza25,p1,True,1514,1483,6,6,12,Toxicroak,Scolipede,Latios,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Toxicroak,Scolipede,Latios,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,0
+36,DragonMasterVeee,Darrenz978,p2,True,1040,1002,6,6,8,Aegislash,Arctovish,Rhyperior,Duraludon,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Aegislash,Arctovish,Rhyperior,Duraludon,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,4
+37,toxicshucklejuice,eeveeleon154,p1,False,,,6,6,20,Eldegoss,Reuniclus,Vileplume,Regieleki,Blastoise,__UNKNOWN_POKEMON__,Eldegoss,Reuniclus,Vileplume,Regieleki,Blastoise,__UNKNOWN_POKEMON__,1,0
+38,Congokkkj,Lipinholero,p2,False,,,6,6,12,Magnezone,Celebi,Shedinja,Skarmory,Omastar,Jellicent,Magnezone,Celebi,Shedinja,Skarmory,Omastar,Jellicent,0,5
+40,bootyheans,Ukyz,p1,True,1397,1437,6,6,18,Beartic,Entei,Doublade,Lilligant,Pincurchin,__UNKNOWN_POKEMON__,Beartic,Entei,Doublade,Lilligant,Pincurchin,__UNKNOWN_POKEMON__,1,0
+41,fadedalex,rgfesfesfdsgf,p1,True,1043,1000,6,6,16,Butterfree,Ninetales,Pincurchin,Durant,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Butterfree,Ninetales,Pincurchin,Durant,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,1
+42,Umbreon717,TuAbuelaEnChones,p1,True,1505,1540,6,6,27,Kabutops,Shuckle,Tornadus,Cofagrigus,Toxtricity,__UNKNOWN_POKEMON__,Kabutops,Shuckle,Tornadus,Cofagrigus,Toxtricity,__UNKNOWN_POKEMON__,1,0
+43,SmokeBomb24,Rolillerena,p2,True,1221,1196,6,6,18,Scizor,Whiscash,Nidoking,Sirfetch’d,Naganadel,Rotom,Scizor,Whiscash,Nidoking,Sirfetch’d,Naganadel,Rotom,0,1
+45,SoulFire9002,InnerVisage,p1,True,1872,1909,6,6,15,Rhyperior,Shiftry,Nidoking,Duraludon,Cresselia,__UNKNOWN_POKEMON__,Rhyperior,Shiftry,Nidoking,Duraludon,Cresselia,__UNKNOWN_POKEMON__,1,2
+46,r\/nsfl__,Bigbrand02,p1,True,1285,1283,6,6,23,Ho-Oh,Weezing,Copperajah,Seismitoad,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Ho-Oh,Weezing,Copperajah,Seismitoad,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+47,Benji1111,Jdjdjdudndjdhx,p2,True,1121,1119,6,6,25,Farfetch’d,Omastar,Giratina,Porygon-Z,Flygon,Sceptile,Farfetch’d,Omastar,Giratina,Porygon-Z,Flygon,Sceptile,0,0
+48,godlikeshitter,rowletroost,p2,True,1415,1430,6,6,23,Suicune,Slowbro,Arctovish,Toxicroak,Boltund,Lopunny,Suicune,Slowbro,Arctovish,Toxicroak,Boltund,Lopunny,0,0
+49,kypong,howdoicrit,p2,True,1248,1200,6,6,25,Drapion,Ribombee,Kyurem,Centiskorch,Unfezant,Barraskewda,Drapion,Ribombee,Kyurem,Centiskorch,Unfezant,Barraskewda,0,0
+50,Charliexx,etmxd,p1,False,,,6,6,22,Tangela,Cloyster,Sandslash,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Tangela,Cloyster,Sandslash,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,0
+51,143 bpm,AchillesADHD,p2,True,1424,1484,6,6,26,Quagsire,Mamoswine,Emolga,Leafeon,Regieleki,Virizion,Quagsire,Mamoswine,Emolga,Leafeon,Regieleki,Virizion,0,1
+53,Drabhater,Hshshsheheh,p1,True,1104,1117,6,6,7,Crawdaunt,Gastrodon,Thundurus,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Crawdaunt,Gastrodon,Thundurus,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,3
+54,hexash,emilien444,p1,True,,,6,6,26,Mr. Mime,Umbreon,Rotom,Rhydon,Buzzwole,__UNKNOWN_POKEMON__,Mr. Mime,Umbreon,Rotom,Rhydon,Buzzwole,__UNKNOWN_POKEMON__,1,0
+55,Lipinholero,Congokkkj,p1,False,,,6,6,26,Cinderace,Tornadus,Walrein,Crawdaunt,Duraludon,Magearna,Cinderace,Tornadus,Walrein,Crawdaunt,Duraludon,Magearna,0,0
+56,tiptiptip,vijilance,p1,True,1425,1415,6,6,28,Miltank,Butterfree,Bisharp,Flygon,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Miltank,Butterfree,Bisharp,Flygon,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+57,raceface111,dazer141,p1,True,1507,1468,6,6,15,Tapu Lele,Reshiram,Seaking,Virizion,Mr. Rime,Slurpuff,Tapu Lele,Reshiram,Seaking,Virizion,Mr. Rime,Slurpuff,0,0
+58,monoladerer,Spyros007,p2,True,1892,1919,6,6,29,Pyukumuku,Drapion,Porygon2,Rayquaza,Lanturn,Entei,Pyukumuku,Drapion,Porygon2,Rayquaza,Lanturn,Entei,0,0
+59,phanta_phanta,lemontium,p1,True,1268,1276,6,6,16,Stonjourner,Bisharp,Slowbro,Coalossal,Pikachu,Talonflame,Stonjourner,Bisharp,Slowbro,Coalossal,Pikachu,Talonflame,0,0
+60,Injbuvy,Juan413,p2,True,1040,1000,6,6,29,Cherrim,Ninjask,Nihilego,Alcremie,Hawlucha,Exploud,Cherrim,Ninjask,Nihilego,Alcremie,Hawlucha,Exploud,0,0
+61,Pollllokn,jerome boger,p2,True,1167,1151,6,6,19,Ho-Oh,Regice,Flareon,Machamp,Swampert,Milotic,Ho-Oh,Regice,Flareon,Machamp,Swampert,Milotic,0,1
+62,asddasadsads,Omnimon merciful m,p1,True,1584,1524,6,6,17,Marowak,Keldeo,Zacian,Luxray,Mew,__UNKNOWN_POKEMON__,Marowak,Keldeo,Zacian,Luxray,Mew,__UNKNOWN_POKEMON__,1,0
+63,Ddsc3,comic pal,p2,False,,,6,6,21,Latias,Omastar,Spectrier,Greedent,Sandslash,Rotom,Latias,Omastar,Spectrier,Greedent,Sandslash,Rotom,0,0
+64,Moehitta,TB10,p2,True,1431,1412,6,6,19,Darmanitan,Wishiwashi,Pheromosa,Diggersby,Heatran,Glastrier,Darmanitan,Wishiwashi,Pheromosa,Diggersby,Heatran,Glastrier,0,1
+65,Brentdv,AllLivesMatter88,p2,True,1466,1498,6,6,16,Chandelure,Abomasnow,Excadrill,Skuntank,Talonflame,__UNKNOWN_POKEMON__,Chandelure,Abomasnow,Excadrill,Skuntank,Talonflame,__UNKNOWN_POKEMON__,1,2
+66,Bryski3912,Masterctrl HHTA,p2,True,1458,1480,6,6,25,Arctozolt,Barraskewda,Nidoking,Wobbuffet,Stakataka,Poliwrath,Arctozolt,Barraskewda,Nidoking,Wobbuffet,Stakataka,Poliwrath,0,0
+67,Bluubus11,Naman125A,p1,True,1065,1102,6,6,45,Necrozma,Garbodor,Sandaconda,Nidoking,Clefable,Rotom,Necrozma,Garbodor,Sandaconda,Nidoking,Clefable,Rotom,0,0
+68,Omnimon merciful m,Fuminium,p1,True,1503,1501,6,6,45,Sableye,Salazzle,Slowbro,Scrafty,Indeedee,__UNKNOWN_POKEMON__,Sableye,Salazzle,Slowbro,Scrafty,Indeedee,__UNKNOWN_POKEMON__,1,0
+69,Kaideos,Tremere,p2,True,1461,1418,6,6,24,Sandslash,Virizion,Mimikyu,Bewear,Scyther,Cofagrigus,Sandslash,Virizion,Mimikyu,Bewear,Scyther,Cofagrigus,0,0
+70,flarteon,Quartia,p1,False,,,6,6,26,Zapdos,Relicanth,Zygarde,Moltres,Hatterene,__UNKNOWN_POKEMON__,Zapdos,Relicanth,Zygarde,Moltres,Hatterene,__UNKNOWN_POKEMON__,1,0
+71,Morningstar2502,Arsenal66,p2,False,,,6,6,26,Zapdos,Togedemaru,Kingler,Vileplume,Klefki,Scolipede,Zapdos,Togedemaru,Kingler,Vileplume,Klefki,Scolipede,0,2
+72,SwagMasterdanielo,LittleFox2000,p2,False,,,6,6,26,Cloyster,Golurk,Slowking,Mr. Rime,Weezing,Naganadel,Cloyster,Golurk,Slowking,Mr. Rime,Weezing,Naganadel,0,0
+73,gordomistiko,go brrrrrr,p1,True,1546,1509,6,6,5,Accelgor,Celesteela,Virizion,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Accelgor,Celesteela,Virizion,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,4
+74,Salim123456,ilusionista11,p2,True,1897,1887,6,6,12,Claydol,Slowbro,Zarude,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Claydol,Slowbro,Zarude,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,2
+75,yaymachine,Natty Chad,p2,True,1745,1824,6,6,23,Rhydon,Buzzwole,Mr. Mime,Porygon2,Xerneas,Scyther,Rhydon,Buzzwole,Mr. Mime,Porygon2,Xerneas,Scyther,0,1
+76,kingl123,LastSonOfDathomir,p2,True,1617,1638,6,6,23,Stonjourner,Xerneas,Mesprit,Noivern,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Stonjourner,Xerneas,Mesprit,Noivern,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,1
+77,Alistaaar,Astra7675,p1,False,,,6,6,20,Espeon,Lopunny,Thundurus,Zygarde,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Espeon,Lopunny,Thundurus,Zygarde,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+78,Professor Hamdawg,Luuuke93,p1,True,1463,1495,6,6,33,Cradily,Chandelure,Passimian,Lugia,Lunala,Goodra,Cradily,Chandelure,Passimian,Lugia,Lunala,Goodra,0,0
+79,Swinvell,TuAbuelaEnChones,p2,True,1511,1475,6,6,26,Marshadow,Lapras,Passimian,Ribombee,Crobat,Marowak,Marshadow,Lapras,Passimian,Ribombee,Crobat,Marowak,0,0
+80,Thails,Captain Dopey,p2,True,1455,1430,6,6,18,Golisopod,Cinderace,Togedemaru,Xerneas,Obstagoon,Drednaw,Golisopod,Cinderace,Togedemaru,Xerneas,Obstagoon,Drednaw,0,0
+81,AlienGeek96,ChuckyBlackK,p1,True,1423,1448,6,6,18,Froslass,Talonflame,Virizion,Drifblim,Zarude,__UNKNOWN_POKEMON__,Froslass,Talonflame,Virizion,Drifblim,Zarude,__UNKNOWN_POKEMON__,1,0
+82,ItzMeOmimYT,Ganjaaaaaa,p2,False,,,6,6,14,Oranguru,Blastoise,Calyrex,Frosmoth,Zapdos,Garbodor,Oranguru,Blastoise,Calyrex,Frosmoth,Zapdos,Garbodor,0,1
+83,Harmikk,Bbhhgvt then reke,p1,True,1061,1039,6,6,3,Escavalier,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Escavalier,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,5,4
+84,ubiquitousvader,im not a lamp,p1,True,1946,1959,6,6,57,Sharpedo,Mandibuzz,Rotom,Clawitzer,Claydol,Snorlax,Sharpedo,Mandibuzz,Rotom,Clawitzer,Claydol,Snorlax,0,0
+85,Velky Carodej,jotiiiiss,p2,True,1254,1258,6,6,41,Stoutland,Rillaboom,Eternatus,Sylveon,Umbreon,Cresselia,Stoutland,Rillaboom,Eternatus,Sylveon,Umbreon,Cresselia,0,0
+86,bogeitor,Salfy,p2,True,1467,1500,6,6,7,Gastrodon,Weezing,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Gastrodon,Weezing,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,4,3
+87,sutarran,ryota334,p1,True,1000,1000,6,6,5,Darmanitan,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Darmanitan,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,5,1
+88,lporr011,keeper of the milk,p1,True,1344,1343,6,6,42,Rhydon,Lanturn,Pheromosa,Lycanroc,Altaria,Kingler,Rhydon,Lanturn,Pheromosa,Lycanroc,Altaria,Kingler,0,0
+89,IIbunnyII,axtell,p2,True,1529,1561,6,6,18,Braviary,Shedinja,Scizor,Incineroar,Mr. Mime,Manectric,Braviary,Shedinja,Scizor,Incineroar,Mr. Mime,Manectric,0,1
+90,LenaDemont,unclesnoop,p1,True,1487,1455,6,6,27,Porygon-Z,Rotom,Dragalge,Scolipede,Kingler,__UNKNOWN_POKEMON__,Porygon-Z,Rotom,Dragalge,Scolipede,Kingler,__UNKNOWN_POKEMON__,1,0
+91,vaporterra,uibeas,p1,True,1408,1439,6,6,30,Lugia,Poliwrath,Zapdos,Jolteon,Dhelmise,Aegislash,Lugia,Poliwrath,Zapdos,Jolteon,Dhelmise,Aegislash,0,0
+92,143 bpm,dobro76,p1,True,1391,1389,6,6,41,Yveltal,Toxicroak,Jirachi,Silvally,Sableye,__UNKNOWN_POKEMON__,Yveltal,Toxicroak,Jirachi,Silvally,Sableye,__UNKNOWN_POKEMON__,1,0
+93,cobilton,Alpha28056,p1,True,1233,1281,6,6,31,Golduck,Umbreon,Sceptile,Sharpedo,Kyurem,Braviary,Golduck,Umbreon,Sceptile,Sharpedo,Kyurem,Braviary,0,0
+94,AnonymousBW,Must4tt,p2,True,1538,1581,6,6,19,Hydreigon,Ribombee,Cofagrigus,Mr. Rime,Reuniclus,Passimian,Hydreigon,Ribombee,Cofagrigus,Mr. Rime,Reuniclus,Passimian,0,1
+95,EnchantedGA,Hahbava,p1,True,1135,1091,6,6,21,Aegislash,Heatran,Inteleon,Shuckle,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Aegislash,Heatran,Inteleon,Shuckle,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,2
+96,bembi,WomenWinning,p2,True,1285,1298,6,6,21,Terrakion,Zekrom,Oranguru,Mandibuzz,Druddigon,__UNKNOWN_POKEMON__,Terrakion,Zekrom,Oranguru,Mandibuzz,Druddigon,__UNKNOWN_POKEMON__,1,1
+97,JigglyPink5,stayfrosty1515,p1,True,1398,1390,6,6,17,Ninetales,Regirock,Pyukumuku,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Ninetales,Regirock,Pyukumuku,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,2
+98,Memerica,Bucket o mudkip,p1,True,1000,1029,6,6,19,Kingler,Moltres,Porygon2,Drednaw,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Kingler,Moltres,Porygon2,Drednaw,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+99,SttavoS,grtlmns,p2,True,1412,1383,6,6,12,Pheromosa,Raichu,Latios,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Pheromosa,Raichu,Latios,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,5
+100,Omnimon merciful m,Babaganush,p1,True,1546,1604,6,6,5,Marowak,Entei,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Marowak,Entei,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,4,2
+101,papa biden,dr.pokenom,p2,True,1160,1114,6,6,22,Centiskorch,Toxtricity,Dracozolt,Rillaboom,Kyogre,Grimmsnarl,Centiskorch,Toxtricity,Dracozolt,Rillaboom,Kyogre,Grimmsnarl,0,1
+102,polypus,Ghetziz,p2,True,1326,1353,6,6,28,Thievul,Octillery,Rotom,Blissey,Marshadow,Galvantula,Thievul,Octillery,Rotom,Blissey,Marshadow,Galvantula,0,0
+103,xzcojiwer,Ddggy,p1,True,1093,1062,6,6,17,Braviary,Raichu,Rotom,Porygon2,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Braviary,Raichu,Rotom,Porygon2,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+104,0-0owo,bruced0109,p2,True,1368,1359,6,6,18,Rotom,Excadrill,Marowak,Aromatisse,Indeedee,Blissey,Rotom,Excadrill,Marowak,Aromatisse,Indeedee,Blissey,0,2
+105,MiyamuraUwux,DaniusDaniu,p2,False,,,6,6,61,Inteleon,Regice,Diancie,Urshifu,Toxapex,Rhyperior,Inteleon,Regice,Diancie,Urshifu,Toxapex,Rhyperior,0,1
+106,Khangadf,pabloperezacopa,p1,True,1000,1026,6,6,31,Urshifu,Durant,Rhyperior,Rapidash,Ho-Oh,Omastar,Urshifu,Durant,Rhyperior,Rapidash,Ho-Oh,Omastar,0,0
+107,Johhny Bravo 2.0,untalchapin,p1,True,1856,1963,6,6,22,Inteleon,Sawk,Coalossal,Slowking,Omastar,__UNKNOWN_POKEMON__,Inteleon,Sawk,Coalossal,Slowking,Omastar,__UNKNOWN_POKEMON__,1,0
+108,thehuman2cs,GetThoseWman,p1,True,1307,1378,6,6,22,Mew,Whimsicott,Obstagoon,Kyogre,Gallade,Mienshao,Mew,Whimsicott,Obstagoon,Kyogre,Gallade,Mienshao,0,0
+109,bulgar,Tiago995,p1,True,1294,1328,6,6,10,Kingler,Slurpuff,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Kingler,Slurpuff,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,4,2
+110,Nuzleafwarrior7778,Jagg96,p1,True,1590,1572,6,6,41,Porygon2,Corviknight,Mawile,Quagsire,Druddigon,Gurdurr,Porygon2,Corviknight,Mawile,Quagsire,Druddigon,Gurdurr,0,0
+111,SpanishSebas,picho,p1,True,1555,1593,6,6,25,Togedemaru,Wigglytuff,Nidoqueen,Heatmor,Barraskewda,Goodra,Togedemaru,Wigglytuff,Nidoqueen,Heatmor,Barraskewda,Goodra,0,0
+112,SabrinaLouana,Blue_leader44,p1,True,1672,1627,6,6,24,Urshifu,Klinklang,Blastoise,Guzzlord,Porygon2,__UNKNOWN_POKEMON__,Urshifu,Klinklang,Blastoise,Guzzlord,Porygon2,__UNKNOWN_POKEMON__,1,1
+113,Greghehhehmyjam,Canela22,p2,True,1000,1012,6,6,3,Gourgeist,Machamp,Pikachu,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Gourgeist,Machamp,Pikachu,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,5
+114,BernadetteIsABitch,jktymuddytrds,p2,True,1000,1000,6,6,24,Meowstic,Rotom,Crobat,Kyogre,Gengar,Thundurus,Meowstic,Rotom,Crobat,Kyogre,Gengar,Thundurus,0,1
+115,babycharizardtoken,Trixie_Valuez,p1,True,1060,1032,6,6,26,Druddigon,Corsola,Blastoise,Landorus,Sudowoodo,Scizor,Druddigon,Corsola,Blastoise,Landorus,Sudowoodo,Scizor,0,0
+116,yuebjfud628,bobvill06,p2,True,1453,1420,6,6,19,Wishiwashi,Duraludon,Togekiss,Kyurem,Excadrill,Sirfetch’d,Wishiwashi,Duraludon,Togekiss,Kyurem,Excadrill,Sirfetch’d,0,1
+117,whateveryouwant123,WillyBk,p2,True,1252,1245,6,6,23,Frosmoth,Slowbro,Shiftry,Gastrodon,Glastrier,Amoonguss,Frosmoth,Slowbro,Shiftry,Gastrodon,Glastrier,Amoonguss,0,2
+118,Atrivee,Pikasmith,p1,True,1000,1018,6,6,5,Gastrodon,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Gastrodon,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,5,4
+119,slickrick29,WomenWinning,p1,True,1529,1550,6,6,15,Azumarill,Machamp,Palkia,Buzzwole,Stonjourner,Linoone,Azumarill,Machamp,Palkia,Buzzwole,Stonjourner,Linoone,0,0
+120,LORD GAVEN,Bagel Boy 11,p1,True,1647,1695,6,6,28,Copperajah,Slowking,Jolteon,Kingler,Scrafty,Lurantis,Copperajah,Slowking,Jolteon,Kingler,Scrafty,Lurantis,0,0
+121,huddymustard,Giknxsthjcseyj,p1,True,1000,1000,6,6,9,Lilligant,Golurk,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Lilligant,Golurk,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,4,4
+122,lucnogamer,Elmundobakugan26,p1,False,,,6,6,20,Zamazenta,Lycanroc,Pangoro,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Zamazenta,Lycanroc,Pangoro,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,0
+123,javibalv,Grl. Dave,p1,True,1445,1420,6,6,35,Dhelmise,Absol,Buzzwole,Sawk,Groudon,Dracozolt,Dhelmise,Absol,Buzzwole,Sawk,Groudon,Dracozolt,0,0
+124,duffman1818,Salew,p2,True,1077,1082,6,6,2,Tornadus,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Tornadus,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,5,4
+125,clarimongusito,Cuorenero,p1,True,2039,2240,6,6,29,Cofagrigus,Slowbro,Toxtricity,Exeggutor,Excadrill,__UNKNOWN_POKEMON__,Cofagrigus,Slowbro,Toxtricity,Exeggutor,Excadrill,__UNKNOWN_POKEMON__,1,0
+126,ImmortalSheep69,ciroguangabriel,p1,True,1072,1040,6,6,13,Meowstic,Scyther,Mawile,Sharpedo,Mienshao,Mudsdale,Meowstic,Scyther,Mawile,Sharpedo,Mienshao,Mudsdale,0,0
+127,1sttimebattlingok,Johhny Bravo 2.0,p2,True,1733,1778,6,6,24,Ho-Oh,Diggersby,Gastrodon,Ninetales,Crawdaunt,Butterfree,Ho-Oh,Diggersby,Gastrodon,Ninetales,Crawdaunt,Butterfree,0,0
+128,Mcmlcl,marcoo123456,p1,True,1497,1521,6,6,23,Slowbro,Dusknoir,Mamoswine,Mewtwo,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Slowbro,Dusknoir,Mamoswine,Mewtwo,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+129,justPoku,Ax Delta,p1,False,,,6,6,22,Cresselia,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Cresselia,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,5,0
+130,Ultrafirestorm,negascott88,p2,True,1638,1604,6,6,14,Roserade,Volcarona,Ninetales,Latios,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Roserade,Volcarona,Ninetales,Latios,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,4
+131,nr9686,Capbooker,p1,True,1098,1123,6,6,23,Urshifu,Regieleki,Drampa,Slowbro,Skarmory,Kabutops,Urshifu,Regieleki,Drampa,Slowbro,Skarmory,Kabutops,0,0
+132,Shenethememe133,Javivar99,p1,True,1929,1901,6,6,6,Salazzle,Exeggutor,Durant,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Salazzle,Exeggutor,Durant,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,2
+133,yeet-potato_49,Stabby Abby,p2,True,1143,1105,6,6,20,Aegislash,Cloyster,Slowbro,Cradily,Zacian,Corviknight,Aegislash,Cloyster,Slowbro,Cradily,Zacian,Corviknight,0,0
+134,GloriousWolf920,Hckkgckhc,p2,True,1028,1045,6,6,6,Unfezant,Naganadel,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Unfezant,Naganadel,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,4,3
+135,gatorpmcg,The Spinda Project,p1,True,,,6,6,36,Articuno,Carbink,Cresselia,Crobat,Beartic,__UNKNOWN_POKEMON__,Articuno,Carbink,Cresselia,Crobat,Beartic,__UNKNOWN_POKEMON__,1,0
+136,projectozzie,Blazinfern,p2,True,1122,1173,6,6,20,Mimikyu,Sigilyph,Musharna,Shiinotic,Dialga,__UNKNOWN_POKEMON__,Mimikyu,Sigilyph,Musharna,Shiinotic,Dialga,__UNKNOWN_POKEMON__,1,3
+137,TuAbuelaEnChones,Nivektowers,p2,True,1495,1484,6,6,9,Shiftry,Weezing,Kyogre,Sandslash,Tauros,Barbaracle,Shiftry,Weezing,Kyogre,Sandslash,Tauros,Barbaracle,0,4
+138,Flarelda,Callme8543214589,p2,True,1962,1935,6,6,27,Snorlax,Delibird,Marshadow,Tapu Fini,Charizard,Sylveon,Snorlax,Delibird,Marshadow,Tapu Fini,Charizard,Sylveon,0,0
+139,derplorddragon,raceface111,p2,True,1564,1575,6,6,18,Tangrowth,Blacephalon,Qwilfish,Omastar,Espeon,Darmanitan,Tangrowth,Blacephalon,Qwilfish,Omastar,Espeon,Darmanitan,0,1
+140,Nasvaah,MaxHasAFax,p2,True,1463,1449,6,6,18,Copperajah,Giratina,Pheromosa,Blacephalon,Cinccino,Sandslash,Copperajah,Giratina,Pheromosa,Blacephalon,Cinccino,Sandslash,0,0
+141,rebonack,hop23,p1,True,1650,1698,6,6,24,Xatu,Jellicent,Tangrowth,Zekrom,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Xatu,Jellicent,Tangrowth,Zekrom,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+142,TuAbuelaEnChones,TikiDT,p2,True,1512,1558,6,6,37,Gastrodon,Weezing,Drampa,Shuckle,Lopunny,Kyurem,Gastrodon,Weezing,Drampa,Shuckle,Lopunny,Kyurem,0,1
+143,romainleBG,jeezzzuuus,p1,True,1064,1104,6,6,21,Butterfree,Coalossal,Ho-Oh,Toxapex,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Butterfree,Coalossal,Ho-Oh,Toxapex,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+144,urbadimbad,Joaooo011_,p2,True,1106,1132,6,6,19,Pincurchin,Rhyperior,Charizard,Zekrom,Spiritomb,__UNKNOWN_POKEMON__,Pincurchin,Rhyperior,Charizard,Zekrom,Spiritomb,__UNKNOWN_POKEMON__,1,2
+145,Anmol Singh,BLUE54000,p1,False,,,6,6,16,Slurpuff,Politoed,Lycanroc,Ninetales,Urshifu,__UNKNOWN_POKEMON__,Slurpuff,Politoed,Lycanroc,Ninetales,Urshifu,__UNKNOWN_POKEMON__,1,0
+146,Play274,Twilight-8901̃-,p2,True,1170,1202,6,6,9,Toxicroak,Mamoswine,Giratina,Vaporeon,Sigilyph,__UNKNOWN_POKEMON__,Toxicroak,Mamoswine,Giratina,Vaporeon,Sigilyph,__UNKNOWN_POKEMON__,1,4
+147,Yakult_Ako,trying_toget_tough,p2,True,1498,1466,6,6,29,Barbaracle,Silvally,Ninetales,Sceptile,Palkia,Dubwool,Barbaracle,Silvally,Ninetales,Sceptile,Palkia,Dubwool,0,0
+148,Piggypigpig,megapupex,p1,True,1119,1067,6,6,17,Nidoking,Tapu Fini,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Nidoking,Tapu Fini,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,4,0
+149,Waspolo,Lazurium,p2,True,1394,1429,6,6,6,Shuckle,Charizard,Arctozolt,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Shuckle,Charizard,Arctozolt,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,5
+150,Korbomemero,Rajsters,p1,True,1300,1357,6,6,18,Pinsir,Krookodile,Sandslash,Marowak,Buzzwole,Kyurem,Pinsir,Krookodile,Sandslash,Marowak,Buzzwole,Kyurem,0,0
+151,Throw Games,GamerOmega2111,p1,True,1816,1785,6,6,35,Gigalith,Tapu Fini,Solrock,Lapras,Kyurem,Pangoro,Gigalith,Tapu Fini,Solrock,Lapras,Kyurem,Pangoro,0,0
+152,Crissafe,jiajieni,p1,True,1313,1275,6,6,21,Sirfetch’d,Ferrothorn,Carracosta,Tauros,Lunala,__UNKNOWN_POKEMON__,Sirfetch’d,Ferrothorn,Carracosta,Tauros,Lunala,__UNKNOWN_POKEMON__,1,0
+153,143 bpm,rodion66,p1,True,1314,1319,6,6,56,Stoutland,Sirfetch’d,Hippowdon,Quagsire,Clawitzer,Regidrago,Stoutland,Sirfetch’d,Hippowdon,Quagsire,Clawitzer,Regidrago,0,0
+154,GizumpGL,Naldo pro max,p1,True,1000,1009,6,6,17,Rhydon,Lunala,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Rhydon,Lunala,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,4,0
+155,Baba Hase,AlbacetePoliceman,p2,True,1239,1274,6,6,21,Hippowdon,Corviknight,Volcanion,Arctozolt,Arctovish,Incineroar,Hippowdon,Corviknight,Volcanion,Arctozolt,Arctovish,Incineroar,0,1
+156,Gustavo_1904,Neyky0,p2,True,2041,2050,6,6,34,Kyurem,Tapu Koko,Dugtrio,Rotom,Regidrago,Diggersby,Kyurem,Tapu Koko,Dugtrio,Rotom,Regidrago,Diggersby,0,0
+157,DeThreigh,Drink Kong,p1,True,1413,1408,6,6,26,Exeggutor,Skarmory,Groudon,Bellossom,Cofagrigus,Palkia,Exeggutor,Skarmory,Groudon,Bellossom,Cofagrigus,Palkia,0,0
+158,cobilton,DevontePKM,p2,True,1551,1506,6,6,21,Eldegoss,Urshifu,Farfetch’d,Relicanth,Zekrom,__UNKNOWN_POKEMON__,Eldegoss,Urshifu,Farfetch’d,Relicanth,Zekrom,__UNKNOWN_POKEMON__,1,2
+159,RedfaceRadio,seventhfeather,p2,True,1292,1258,6,6,7,Spectrier,Tapu Fini,Pikachu,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Spectrier,Tapu Fini,Pikachu,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,3
+160,macchinista Franco,ayamru,p1,True,1512,1462,6,6,3,Heracross,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Heracross,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,5,3
+161,Pikas weird cousin,nshk,p2,True,1309,1316,6,6,20,Kabutops,Eternatus,Kyogre,Mew,Sylveon,Garchomp,Kabutops,Eternatus,Kyogre,Mew,Sylveon,Garchomp,0,0
+162,agTTV,Bifidus,p1,True,1498,1497,6,6,25,Talonflame,Bisharp,Seaking,Aromatisse,Tornadus,Blaziken,Talonflame,Bisharp,Seaking,Aromatisse,Tornadus,Blaziken,0,0
+163,annya,SceptileJungle,p1,True,1418,1425,6,6,14,Articuno,Farfetch’d,Heracross,Linoone,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Articuno,Farfetch’d,Heracross,Linoone,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+164,143 bpm,Knaos15,p2,True,1337,1326,6,6,17,Electivire,Shedinja,Hawlucha,Mimikyu,Pheromosa,Slowking,Electivire,Shedinja,Hawlucha,Mimikyu,Pheromosa,Slowking,0,0
+165,BestWishesFan,llcoolt,p1,True,1505,1492,6,6,25,Greedent,Aegislash,Bellossom,Krookodile,Clefable,__UNKNOWN_POKEMON__,Greedent,Aegislash,Bellossom,Krookodile,Clefable,__UNKNOWN_POKEMON__,1,0
+166,Loche Tempest,Johnny Lectric,p2,True,1250,1201,6,6,12,Mew,Regirock,Steelix,Vanilluxe,Sylveon,Centiskorch,Mew,Regirock,Steelix,Vanilluxe,Sylveon,Centiskorch,0,3
+167,shevon,Hwdhay,p2,True,1389,1415,6,6,14,Azelf,Klefki,Articuno,Noctowl,Omastar,Cinderace,Azelf,Klefki,Articuno,Noctowl,Omastar,Cinderace,0,4
+168,MiniBraawl,Gen000,p1,True,1128,1165,6,6,25,Crawdaunt,Poliwrath,Celebi,Emolga,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Crawdaunt,Poliwrath,Celebi,Emolga,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+169,Nitryxium,ALANNn55,p2,True,1027,1056,6,6,23,Aromatisse,Registeel,Tapu Koko,Slowbro,Mr. Mime,Scizor,Aromatisse,Registeel,Tapu Koko,Slowbro,Mr. Mime,Scizor,0,0
+170,JollyFlygon,ppev,p2,True,1997,1987,6,6,28,Goodra,Salazzle,Rapidash,Solgaleo,Zeraora,Mewtwo,Goodra,Salazzle,Rapidash,Solgaleo,Zeraora,Mewtwo,0,0
+171,Fildasin,Velky Carodej,p2,False,,,6,6,25,Moltres,Mr. Rime,Urshifu,Arctozolt,Wishiwashi,Durant,Moltres,Mr. Rime,Urshifu,Arctozolt,Wishiwashi,Durant,0,0
+172,Theknightakaghost,Batataplays,p2,True,,,6,6,25,Scrafty,Mimikyu,Machamp,Cresselia,Barraskewda,Kyurem,Scrafty,Mimikyu,Machamp,Cresselia,Barraskewda,Kyurem,0,0
+173,Ezgamer9,grasskicker03,p1,False,,,6,6,13,Seismitoad,Galvantula,Zygarde,Froslass,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Seismitoad,Galvantula,Zygarde,Froslass,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,1
+174,Anakrit,sattu142,p2,False,,,6,6,32,Cloyster,Moltres,Pangoro,Aurorus,Unfezant,Sylveon,Cloyster,Moltres,Pangoro,Aurorus,Unfezant,Sylveon,0,2
+175,Joaooo011_,Doctorchungo68,p1,True,1305,1285,6,6,41,Azelf,Zygarde,Golduck,Umbreon,Comfey,Pheromosa,Azelf,Zygarde,Golduck,Umbreon,Comfey,Pheromosa,0,0
+176,Ferpf_06,AC Absalleon,p2,True,1500,1457,6,6,21,Registeel,Inteleon,Leafeon,Shuckle,Scrafty,Toxicroak,Registeel,Inteleon,Leafeon,Shuckle,Scrafty,Toxicroak,0,1
+177,Highnoodles,thegrimreaper2908,p1,True,1071,1087,6,6,24,Pelipper,Urshifu,Lickilicky,Ho-Oh,Cinderace,Roserade,Pelipper,Urshifu,Lickilicky,Ho-Oh,Cinderace,Roserade,0,0
+178,sadkfjnsadkfj,Pit9726,p1,True,1000,1000,6,6,15,Magearna,Meowstic,Salazzle,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Magearna,Meowstic,Salazzle,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,3,0
+179,mikemcboom,Preliminary Pex,p1,True,1177,1198,6,6,9,Naganadel,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Naganadel,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,5,0
+180,throwaway3525234,reatgregerg,p2,True,1000,1000,6,6,15,Musharna,Escavalier,Rhyperior,Ribombee,Gyarados,Linoone,Musharna,Escavalier,Rhyperior,Ribombee,Gyarados,Linoone,0,2
+181,Violets,TileTay,p1,True,1571,1536,6,6,26,Araquanid,Yveltal,Celebi,Mr. Rime,Throh,__UNKNOWN_POKEMON__,Araquanid,Yveltal,Celebi,Mr. Rime,Throh,__UNKNOWN_POKEMON__,1,0
+182,ltbringer,ilovekoffing,p2,True,1157,1209,6,6,26,Keldeo,Mr. Rime,Togekiss,Mesprit,Skarmory,Ditto,Keldeo,Mr. Rime,Togekiss,Mesprit,Skarmory,Ditto,0,0
+183,Hisuiantyplosion,Narwaq,p1,True,1482,1425,6,6,13,Cinccino,Carbink,Dracozolt,Slurpuff,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Cinccino,Carbink,Dracozolt,Slurpuff,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+184,docchoc,rolamole,p1,True,1160,1193,6,6,25,Shiinotic,Dragapult,Hitmontop,Eiscue,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Shiinotic,Dragapult,Hitmontop,Eiscue,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,2,0
+185,GabrielSS4,Naipii,p2,True,1058,1081,6,6,3,Mamoswine,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,Mamoswine,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,__UNKNOWN_POKEMON__,5,5
+186,Duckooooolive,joakim van ampt,p2,True,1000,1000,6,6,11,Hawlucha,Glalie,Raichu,Jellicent,Gothitelle,Togekiss,Hawlucha,Glalie,Raichu,Jellicent,Gothitelle,Togekiss,0,5
+187,Th3K1ng123,CommanderN7_,p1,True,1402,1406,6,6,24,Latias,Skarmory,Mew,Wailord,Cinderace,Aerodactyl,Latias,Skarmory,Mew,Wailord,Cinderace,Aerodactyl,0,0
+188,snerkerino,Micael Lopes,p2,True,1692,1776,6,6,30,Thievul,Giratina,Slowking,Linoone,Lanturn,Raichu,Thievul,Giratina,Slowking,Linoone,Lanturn,Raichu,0,0
+189,None.void,DavidKingwell,p1,True,1290,1253,6,6,55,Lapras,Pikachu,Bronzong,Ho-Oh,Mew,Sirfetch’d,Lapras,Pikachu,Bronzong,Ho-Oh,Mew,Sirfetch’d,0,0
+190,Bbbooorrrggg,Aj9893500,p2,True,1145,1128,6,6,21,Latias,Tsareena,Zacian,Liepard,Reuniclus,Gyarados,Latias,Tsareena,Zacian,Liepard,Reuniclus,Gyarados,0,5
+191,natsuspanks,TPL06,p1,False,,,6,6,19,Lurantis,Sandslash,Heatran,Slurpuff,Rotom,Clawitzer,Lurantis,Sandslash,Heatran,Slurpuff,Rotom,Clawitzer,0,0
+192,Serena here,turbo777,p1,True,1293,1280,6,6,37,Arctozolt,Unfezant,Necrozma,Salazzle,Aromatisse,__UNKNOWN_POKEMON__,Arctozolt,Unfezant,Necrozma,Salazzle,Aromatisse,__UNKNOWN_POKEMON__,1,0
+193,swagalishis1bby,TheHoki,p2,True,1331,1306,6,6,59,Milotic,Moltres,Sableye,Alcremie,Grapploct,Toxicroak,Milotic,Moltres,Sableye,Alcremie,Grapploct,Toxicroak,0,0
+194,mobmasher99,Pdro18,p2,True,1323,1280,6,6,10,Toxicroak,Kangaskhan,Heliolisk,Tornadus,Spectrier,__UNKNOWN_POKEMON__,Toxicroak,Kangaskhan,Heliolisk,Tornadus,Spectrier,__UNKNOWN_POKEMON__,1,2
+195,114514w,Mss002,p2,True,1266,1300,6,6,24,Vespiquen,Polteageist,Aggron,Kingdra,Mesprit,Sandslash,Vespiquen,Polteageist,Aggron,Kingdra,Mesprit,Sandslash,0,0
+196,monsieuralexander,clarimongusito,p2,True,1890,1902,6,6,28,Dugtrio,Zapdos,Keldeo,Electivire,Slowbro,Lucario,Dugtrio,Zapdos,Keldeo,Electivire,Slowbro,Lucario,0,0
